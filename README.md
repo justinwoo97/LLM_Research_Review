@@ -12,7 +12,7 @@
 |[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)|:white_check_mark: ||
 
 
-GPT
+## GPT
 | LLM Paper                 | Status  | Reading | 
 | ------------------------  |---------| --------| 
 |[Improving Language Understanding by Generative Pre-Training(GPT-1)](https://arxiv.org/abs/2108.07258)|:white_check_mark: ||
