@@ -8,7 +8,6 @@
 | ------------------------  |---------| --------| 
 |[Attention is All You Need](https://arxiv.org/abs/1706.03762)|:white_check_mark: ||
 |[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)| :white_check_mark: ||
-|[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|:white_check_mark: ||
 |[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)|:white_check_mark: ||
 
 
