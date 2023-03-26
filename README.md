@@ -12,6 +12,14 @@
 |[BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461)|:white_check_mark: ||
 
 
+GPT
+| LLM Paper                 | Status  | Reading | 
+| ------------------------  |---------| --------| 
+|[Improving Language Understanding by Generative Pre-Training(GPT-1)](https://arxiv.org/abs/2108.07258)|:white_check_mark: ||
+|[Language Models are Unsupervised Multitask Learners(GPT-2)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)|:white_check_mark: ||
+|[Language Models are Few-Shot Learners(GPT-3)](https://arxiv.org/abs/2005.14165)|:white_check_mark: ||
+
+
 ## Methods for Improving LLM Efficiency
 | LLM Paper                 | Status  | Reading | 
 | ------------------------  |---------| --------| 
@@ -41,3 +49,5 @@ Important Ethical Concerns Regarding LLMs
 |[On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)|:white_check_mark: ||
 |[GPT-3: Its Nature, Scope, Limits, and Consequences](https://link.springer.com/article/10.1007/s11023-020-09548-1)|:white_check_mark: ||
 |[On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/abs/10.1145/3442188.3445922)|:white_check_mark: ||
+
+
