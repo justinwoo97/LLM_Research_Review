@@ -43,7 +43,7 @@
 
 
 
-Important Ethical Concerns Regarding LLMs
+## Important Ethical Concerns Regarding LLMs
 | LLM Paper                 | Status  | Reading | 
 | ------------------------  |---------| --------| 
 |[On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)|:white_check_mark: ||
